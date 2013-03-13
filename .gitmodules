@@ -1,0 +1,3 @@
+[submodule "werebol-scratch"]
+	path = werebol-scratch
+	url = https://github.com/dt2/werebol-scratch.git
